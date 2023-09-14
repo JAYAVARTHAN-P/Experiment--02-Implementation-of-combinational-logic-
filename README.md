@@ -21,7 +21,9 @@ F=((C'.B.A)'(D'.C.A)'(C.B'.A)')'
  2.Assign inputs and outputs using the word input and output respectively.
  3.Use defined keywords like wire,assign and required logic gates to represent the boolean expression. 
  4.Use each output to represent one for F1 and the other for F2. 5.End the verilog program using keyword endmodule.
-LOGIC DIAGRAM:
+
+ 
+## LOGIC DIAGRAM:
 ![263515606-09ff1f1e-833a-4530-9148-77f0ff065212](https://github.com/JAYAVARTHAN-P/Experiment--02-Implementation-of-combinational-logic-/assets/121369281/d1f31acc-809d-4da8-b470-b0f5c663790f)
 
 

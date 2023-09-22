@@ -43,6 +43,9 @@ assign x5= (B) & (~C) & (D);
 assign F1 = x1 | x2 | x3 | x4 | x5;
 endmodule
 ```
+## TRUTHTABLE:
+![EXP2 TT](https://github.com/JAYAVARTHAN-P/Experiment--02-Implementation-of-combinational-logic-/assets/121369281/09c75f2e-01f5-41c9-aa75-27ba884e5042)
+
 
 ## RTL realization
 ## Output:
